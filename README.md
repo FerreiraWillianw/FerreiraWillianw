@@ -1,10 +1,14 @@
 👋 Olá! Sou o **Willian**, apaixonado por **Tecnologia**, **Jogos** e o constante desafio de **aprender algo novo**.
 
 Minha jornada:
-🎓 **Formação:** Administração (UFRRJ) e Pós-graduação em Análise de Dados pela Faculdade Descomplica
-💻 **Habilidades:** Python para automação e Power BI para visualização estratégica.
+🎓 **Formação:** Administração (UFRRJ) e Pós-graduação em Análise de Dados.
 
-🎯 **Objetivo de carreira:** Gerar *insights* de alto impacto e aprofundar meus conhecimentos em Data Science.
+💻 **Habilidades em Dados:**
+* Linguagem: Python para processamento de dados e automação.
+* Banco de Dados: MySQL (consultas e estrutura).
+* Visualização: Power BI para análise estratégica.
+
+🎯 **Objetivo:** Gerar *insights* de alto impacto e aprofundar meus conhecimentos em Data Science.
 
 ### 🧰 Languages and Tools
 
