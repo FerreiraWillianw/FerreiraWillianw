@@ -6,4 +6,4 @@ Minha jornada:
 
 🎯 **Objetivo de carreira:** Gerar *insights* de alto impacto e aprofundar meus conhecimentos em Data Science.
 
-Me encontre no: [LinkedIn](https://www.linkedin.com/in/willian-ferreira-879b501b8/)
+Me encontre no [LinkedIn](https://www.linkedin.com/in/willian-ferreira-879b501b8/)
