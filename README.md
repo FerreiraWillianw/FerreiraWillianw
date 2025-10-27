@@ -14,7 +14,7 @@ Minha jornada:
 
 <img align="left" alt="Python" title="Python" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-<img align="left" alt="Power BI" title="Power BI" width="60px" style="padding-right:20px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3ANew_Power_BI_Logo.svg&psig=AOvVaw1EIsPQV827cMht_is7mC4p&ust=1761672188968000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMim2LnyxJADFQAAAAAdAAAAABAE" />
+<img align="left" alt="Power BI" title="Power BI" width="60px" style="padding-right:20px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
 </br>
 </br>
 </br>
