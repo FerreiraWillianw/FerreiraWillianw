@@ -10,4 +10,7 @@ Minha jornada:
 
 <img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
+
+
+
 Me encontre no [LinkedIn](https://www.linkedin.com/in/willian-ferreira-879b501b8/)
