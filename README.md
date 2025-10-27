@@ -1,16 +1,14 @@
 ## Hi there 👋
+# Willian | Data Enthusiast 📊 & Automation Developer 🐍
 
-<!--
-**FerreiraWillianw/FerreiraWillianw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Administrador de Empresas (UFRRJ) em transição de carreira e Pós-graduando em **Análise de Dados** pela Descomplica.
 
-Here are some ideas to get you started:
+Apaixonado por transformar dados em *insights* de valor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Minhas *hardskills* se concentram em:
+* **Python**: Automação de rotinas e tratamento de dados.
+* **Análise & BI**: Geração de *insights* estratégicos com [Power BI]
+
+Buscando continuamente aprimorar meus conhecimentos na área.
