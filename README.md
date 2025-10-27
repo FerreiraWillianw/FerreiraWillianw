@@ -1,14 +1,9 @@
-## Hi there 👋
-# Willian | Data Enthusiast 📊 & Automation Developer 🐍
+👋 Olá! Sou o **Willian**, apaixonado por **Tecnologia**, **Jogos** e o constante desafio de **aprender algo novo**.
 
-Administrador de Empresas (UFRRJ) em transição de carreira e Pós-graduando em **Análise de Dados** pela Descomplica.
+Minha jornada:
+🎓 **Formação:** Administração (UFRRJ) e Pós-graduação em Análise de Dados pela Faculdade Descomplica
+💻 **Habilidades:** Python para automação e Power BI para visualização estratégica.
 
-Apaixonado por transformar dados em *insights* de valor.
+🎯 **Objetivo de carreira:** Gerar *insights* de alto impacto e aprofundar meus conhecimentos em Data Science.
 
----
-
-Minhas *hardskills* se concentram em:
-* **Python**: Automação de rotinas e tratamento de dados.
-* **Análise & BI**: Geração de *insights* estratégicos com [Power BI]
-
-Buscando continuamente aprimorar meus conhecimentos na área.
+Me encontre no: [LinkedIn](https://www.linkedin.com/in/willian-ferreira-879b501b8/)
