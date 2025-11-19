@@ -3,7 +3,7 @@
 Minha jornada:
 🎓 **Formação:** 
 
-Bacharel em Administração pela Universidade Federal Rural do Rio de Janeiro (UFRRJ)
+Bacharel em Administração pela Universidade Federal Rural do Rio de Janeiro (UFRRJ) <br>
 Pós graduado em Análise de Dados pelo Centro Universitário União das Américas (Faculdade Descomplica)
 
 💻 **Habilidades em Dados:**
