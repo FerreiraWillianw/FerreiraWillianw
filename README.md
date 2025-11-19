@@ -1,10 +1,13 @@
 👋 Olá! Sou o **Willian**, apaixonado por **Tecnologia**, **Jogos** e o constante desafio de **aprender algo novo**.
 
 Minha jornada:
-🎓 **Formação:** Administração (UFRRJ) e Pós-graduação em Análise de Dados.
+🎓 **Formação:** 
+
+Bacharel em Administração pela Universidade Federal Rural do Rio de Janeiro (UFRRJ)
+Pós graduado em Análise de Dados pelo Centro Universitário União das Américas (Faculdade Descomplica)
 
 💻 **Habilidades em Dados:**
-* Linguagem: Python para processamento de dados e automação.
+* Linguagem: Python para processamento de dados e automação de rotinas repetitivas.
 * Banco de Dados: MySQL (consultas e estrutura).
 * Visualização: Power BI para análise estratégica.
 
