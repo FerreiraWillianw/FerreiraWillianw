@@ -1,6 +1,6 @@
 👋 Olá! Sou o **Willian**, apaixonado por **Tecnologia**, **Jogos** e o constante desafio de **aprender algo novo**.
 
-Minha jornada:
+Minha jornada:</br>
 🎓 **Formação:** 
 
 Bacharel em Administração pela Universidade Federal Rural do Rio de Janeiro (UFRRJ) <br>
@@ -11,9 +11,9 @@ Pós graduado em Análise de Dados pelo Centro Universitário União das Améric
 * Banco de Dados: MySQL (consultas e estrutura).
 * Visualização: Power BI para análise estratégica.
 
-🎯 **Objetivo:** Gerar *insights* de alto impacto e aprofundar meus conhecimentos em Data Science.
+🎯 **Objetivo:** Gerar *insights* de alto impacto e aprofundar meus conhecimentos em Data Analyst.
 
-Busco a migração de carreira para a área de Data Science e Automação de Dados. Com foco em aplicar Python, MySQL e Power BI para transformar dados brutos em insights de alto impacto, otimizar processos internos e gerar vantagem competitiva por meio de soluções de análise e automação eficientes. Busco um ambiente que valorize o aprendizado contínuo e permita a entrega de resultados mensuráveis para o crescimento da organização.
+Busco a migração de carreira para a área de Análise de dados e Automação. Com foco em aplicar Python, MySQL e Power BI para transformar dados brutos em insights de alto impacto, otimizar processos internos e gerar vantagem competitiva por meio de soluções de análise e automação eficientes. Busco um ambiente que valorize o aprendizado contínuo e permita a entrega de resultados mensuráveis para o crescimento da organização.
 
 ### 🧰 Linguagens e ferramentas
 
